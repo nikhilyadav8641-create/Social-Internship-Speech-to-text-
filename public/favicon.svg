@@ -1,0 +1,39 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="512" height="512" rx="120" fill="#2196F3"></rect>
+
+<!-- Rainbow -->
+<path d="M120 230C150 130 362 130 392 230" stroke="#FFD54F" stroke-width="35" stroke-linecap="round"></path>
+
+<path d="M150 240C180 170 332 170 362 240" stroke="#4CAF50" stroke-width="25" stroke-linecap="round"></path>
+
+
+<!-- Face -->
+<circle cx="256" cy="280" r="120" fill="white"></circle>
+
+
+<!-- Eyes -->
+<circle cx="215" cy="270" r="15" fill="#1565C0"></circle>
+<circle cx="297" cy="270" r="15" fill="#1565C0"></circle>
+
+
+<!-- Smile -->
+<path d="M205 320C230 360 282 360 307 320" stroke="#1565C0" stroke-width="18" stroke-linecap="round"></path>
+
+
+<!-- Sound Waves -->
+<path d="M110 300C80 330 80 380 110 410" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round"></path>
+
+<path d="M402 300C432 330 432 380 402 410" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round"></path>
+
+
+<!-- Microphone -->
+<rect x="240" y="210" width="32" height="70" rx="16" fill="#FF5252"></rect>
+
+<path d="M225 260C225 300 287 300 287 260" stroke="#FF5252" stroke-width="12" stroke-linecap="round"></path>
+
+<line x1="256" y1="300" x2="256" y2="330" stroke="#FF5252" stroke-width="12" stroke-linecap="round"></line>
+
+
+</svg>
